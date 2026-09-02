@@ -1,9 +1,1 @@
-{
-  "name": "PROGOS B1 High Trainer",
-  "short_name": "PROGOS B1",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f5f6f8",
-  "theme_color": "#2563eb",
-  "description": "PROGOS B1 High向け英語スピーキング練習アプリ"
-}
+{"name":"PROGOS B1 High Trainer","short_name":"PROGOS B1","start_url":"./","display":"standalone","background_color":"#f4f6fa","theme_color":"#2563eb","icons":[]}

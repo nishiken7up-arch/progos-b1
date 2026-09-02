@@ -1,8 +1,4 @@
-iPhone用PROGOS B1 High Trainer
-1. このフォルダをHTTPSで公開
-2. iPhoneのSafariでURLを開く
-3. 共有 →「ホーム画面に追加」
-4. ホーム画面から起動
-5. マイクは「許可」
-
-録音機能はiPhone/SafariではHTTPS環境での利用を推奨します。
+PROGOS B1 High Trainer v3
+GitHub Pages用：index.html / manifest.json / sw.js
+3ファイルをリポジトリの同じ階層にアップロードしてください。
+GitHub PagesでHTTPS公開後、iPhoneのSafariから「ホーム画面に追加」で利用できます。
